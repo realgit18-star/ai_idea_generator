@@ -1,5 +1,5 @@
 _pycache_/
 *.pyc
 .env
-.idea/
 .vscode/
+.idea/
